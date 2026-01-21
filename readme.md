@@ -9,7 +9,7 @@ A simple *Python Flask Expense Tracker* project to manage daily expenses.
 - Local database using SQLite
 
 ## ⚙️ Tech Stack
-- Python 3.x  
+- Python
 - Flask  
 - SQLite  
 - HTML / CSS  
