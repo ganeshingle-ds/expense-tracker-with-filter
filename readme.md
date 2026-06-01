@@ -36,17 +36,17 @@
 
    Expense-Tracker/
    │
-   ├── app.py
+   ├── static/
    
-   ├── database.db
+   │   └── style.css
    
    ├── templates/
    
    │   ├── index.html
    
-   ├── static/
+   ├── app.py
    
-   │   └── style.css
+   ├── gitignore
    
    └── README.md
 
