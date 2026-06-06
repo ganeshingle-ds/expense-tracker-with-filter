@@ -57,7 +57,7 @@
   
   Bash
   
-  git clone https://github.com/ganeshingle/expense-tracker-with-filter.git
+  git clone https://github.com/ganeshingle-ds/expense-tracker-with-filter.git
   
   Navigate to Project Directory
   
